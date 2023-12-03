@@ -1,0 +1,14 @@
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\bin\Debug\net8.0\dotnet-phoneletters.exe
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\bin\Debug\net8.0\dotnet-phoneletters.deps.json
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\bin\Debug\net8.0\dotnet-phoneletters.runtimeconfig.json
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\bin\Debug\net8.0\dotnet-phoneletters.dll
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\bin\Debug\net8.0\dotnet-phoneletters.pdb
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.AssemblyInfoInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.AssemblyInfo.cs
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.csproj.CoreCompileInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.dll
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\refint\dotnet-phoneletters.dll
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.pdb
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\dotnet-phoneletters.genruntimeconfig.cache
+E:\PROJECTS\dotnet-porto\dotnet-phoneletters\obj\Debug\net8.0\ref\dotnet-phoneletters.dll
